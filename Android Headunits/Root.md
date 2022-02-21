@@ -1,6 +1,6 @@
 # Root
 
-To access root on many alps 8227L based units simply enable adb andd connect to a wifi network the run
+To access root on many alps 8227L based units simply enable adb and connect to a wifi network the run
 
 `adb connect [IP]`
 
