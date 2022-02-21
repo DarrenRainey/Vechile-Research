@@ -1,2 +1,2 @@
-# Vechile-Research
-Various notes about researching different vehicles and their systems
+# Vehicle-Research
+Various notes about researching different vehicle and their systems
